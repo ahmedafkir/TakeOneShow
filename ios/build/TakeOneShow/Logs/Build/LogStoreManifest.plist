@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>CBA6F78D-9299-43E0-AD95-87F886CD45DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CBA6F78D-9299-43E0-AD95-87F886CD45DA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TakeOneShow project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TakeOneShow</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TakeOneShow with scheme TakeOneShow and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>610036955.45906603</real>
+			<key>timeStoppedRecording</key>
+			<real>610036957.45310998</real>
+			<key>title</key>
+			<string>Building workspace TakeOneShow with scheme TakeOneShow and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CBA6F78D-9299-43E0-AD95-87F886CD45DA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Jan 30 20:47:38 WET 2020
+2.base=/Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/build/intermediates/merged_assets/debug/out
+5.set=ASSET
+0.path=fonts/Cairo-Bold.ttf
+2.baseType=DIRECTORY
+3.base=/Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/build/intermediates/merged_assets/debug/out
+2.set=ASSET
+1.path=fonts/Cairo-Regular.ttf
+4.base=/Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/build/intermediates/merged_assets/debug/out
+count=6
+5.baseType=DIRECTORY
+2.path=fonts/Cairo-SemiBold.ttf
+5.base=/Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/build/intermediates/merged_assets/debug/out
+4.set=ASSET
+3.path=fonts/Cairo-Black.ttf
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/Cairo-Light.ttf
+1.baseType=DIRECTORY
+5.path=fonts/Cairo-ExtraLight.ttf
+0.base=/Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/build/intermediates/merged_assets/debug/out
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/build/intermediates/merged_assets/debug/out
+4.baseType=DIRECTORY
+0.set=ASSET

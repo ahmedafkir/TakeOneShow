@@ -1,0 +1,563 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2d8b4212115c30eec400725db53eb4ff/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-restart] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-safe-area-context] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/226846abf2e0c346ca7cd74655c5f772/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ce0a538e4bd9ee7877f1b57475061881/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2e5f020192bdb6672221b1e0c797759b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aba2b161ee34eb10e072499341a13adb/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:17:1-29:12
+MERGED from [:@react-native-community_masked-view] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/afkir/.gradle/caches/transforms-2/files-2.1/11f612fca251f351c1dd27bc9f8fc088/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/09532c0be8d162f956825f41c195898a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8b45b62c3ef4cd217f8a08efc3fc8576/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/be037d1343a4052cacc94da690fd9be4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/832938752bffac6bf53d46927997be3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/5943130d702aabd8c6012dd5cdddad6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/afkir/.gradle/caches/transforms-2/files-2.1/a5a6887424f7a5521af810adf1eddef0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/a64fa3f8cc28fce435e62aa50b6fb00a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/c2d047dfd3d4526194859644b5305d3f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/597cac5d46354f8c84329803375d5809/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b98f9bceba377f097518bc52da7db7b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/fe03525b7360e424974f4bc58ffa9f45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/40fee58858b84461f2facfab74fcb017/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/efcea2120e4369e0c4734bfd993fa923/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/34b70ee5eb9680bf6055c4daacdf98bb/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0b291c91c0fd7a4dc564f7f74428f35b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3782f338b926a2081813d25e46964ec8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f8279d3cb1adcf38b9d7b6f39b8d5b5b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6d0d1634cbb116e87aa02e4ba2b5044d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d73bde8c499dfb3960f7635c6ac05ba4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cfb2f45bbf04a09959f4496f5f71b06c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/27a00d1482d2da4b6f7861adcdfbaab4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/5c60b3ee616018fe16abcec12554812f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1db86fd2f68cdfffc8029b85c34b5973/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ace391ca07874423f6cc45d4b1b0f52e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3f4364ce6a1720d7beef13fc0691c3a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6f62713acc8068183e64d4fa3ce32a61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1025773d2f97d430427f5350b43fb276/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/9aed25001818971f84615fa00c918b62/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ae0b4b47657820f12114b6152b6ea51f/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d85fb92d704ba0c57b07f82f7dc198a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/9c29b181994686c6bb270cecadecf60e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6fc367e78628f98818f3f08113c63ae5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1bc6c7f118b93e82451159463acee09c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b2d657051eca9f2909a7ca4946236946/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8139f79bbdcc9b8788ad63012fef4bf9/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/59b333ac07571fc62da9479baf421554/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8de0a056a52acdad03185fda4bd007ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/44d697bfcd6d44a014a5f3a5e1106571/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/00d9fc1c339865d199e78c74fa5665aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0d1a7ffc27fec176a4faa34f86a58900/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aee19ad0d9085f9b73e7b81807bce70a/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2f2a838bb4d9e7385817c878d887a292/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/31f139dd575a843eac761bf5c329d20c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3c27d5932ba600a8ea3539dd971d487f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d105cead4525df36da0bffcb70872770/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64f8baea50ee13b002e68edfb434cd4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/4500ae956cbc41ef001396bb6a58dea8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f730a28d2119caf26d344593c28f7524/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/78b825b9c6c8739cbb6a01ff385caca8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/487d2cf6cc29def8cd5862348ee02395/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d24175de89cf5083d83c6f60af0c38e9/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b00b8c47cb015ca2d71c498d16e36a5e/AndroidManifest.xml:2:1-9:12
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:6:5-30:19
+MERGED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:6:5-30:19
+MERGED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:6:5-30:19
+MERGED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-splash-screen] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-splash-screen] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/226846abf2e0c346ca7cd74655c5f772/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/226846abf2e0c346ca7cd74655c5f772/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ce0a538e4bd9ee7877f1b57475061881/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ce0a538e4bd9ee7877f1b57475061881/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2e5f020192bdb6672221b1e0c797759b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2e5f020192bdb6672221b1e0c797759b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aba2b161ee34eb10e072499341a13adb/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aba2b161ee34eb10e072499341a13adb/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/afkir/.gradle/caches/transforms-2/files-2.1/11f612fca251f351c1dd27bc9f8fc088/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/afkir/.gradle/caches/transforms-2/files-2.1/11f612fca251f351c1dd27bc9f8fc088/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/09532c0be8d162f956825f41c195898a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/09532c0be8d162f956825f41c195898a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/efcea2120e4369e0c4734bfd993fa923/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/efcea2120e4369e0c4734bfd993fa923/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/34b70ee5eb9680bf6055c4daacdf98bb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/34b70ee5eb9680bf6055c4daacdf98bb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3782f338b926a2081813d25e46964ec8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3782f338b926a2081813d25e46964ec8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f8279d3cb1adcf38b9d7b6f39b8d5b5b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f8279d3cb1adcf38b9d7b6f39b8d5b5b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6d0d1634cbb116e87aa02e4ba2b5044d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6d0d1634cbb116e87aa02e4ba2b5044d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d73bde8c499dfb3960f7635c6ac05ba4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d73bde8c499dfb3960f7635c6ac05ba4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ae0b4b47657820f12114b6152b6ea51f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ae0b4b47657820f12114b6152b6ea51f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8139f79bbdcc9b8788ad63012fef4bf9/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8139f79bbdcc9b8788ad63012fef4bf9/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/487d2cf6cc29def8cd5862348ee02395/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/487d2cf6cc29def8cd5862348ee02395/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ae0b4b47657820f12114b6152b6ea51f/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:react-native-splash-screen] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:11:7-33
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:11:7-33
+	android:theme
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.takeoneshow.SplashActivity
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:13:7-21:18
+	android:label
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:theme
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:14:9-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:17:9-20:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:18:13-65
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:18:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:19:13-73
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:19:23-70
+activity#com.takeoneshow.MainActivity
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:label
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:24:13-45
+	android:windowSoftInputMode
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:exported
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:27:13-36
+	android:configChanges
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:25:13-83
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:23:13-41
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-sdk
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2d8b4212115c30eec400725db53eb4ff/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2d8b4212115c30eec400725db53eb4ff/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-restart] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-restart] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-restart/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/226846abf2e0c346ca7cd74655c5f772/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/226846abf2e0c346ca7cd74655c5f772/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ce0a538e4bd9ee7877f1b57475061881/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ce0a538e4bd9ee7877f1b57475061881/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2e5f020192bdb6672221b1e0c797759b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2e5f020192bdb6672221b1e0c797759b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aba2b161ee34eb10e072499341a13adb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aba2b161ee34eb10e072499341a13adb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:20:5-44
+MERGED from [:@react-native-community_masked-view] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/afkir/.gradle/caches/transforms-2/files-2.1/11f612fca251f351c1dd27bc9f8fc088/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/afkir/.gradle/caches/transforms-2/files-2.1/11f612fca251f351c1dd27bc9f8fc088/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/09532c0be8d162f956825f41c195898a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/09532c0be8d162f956825f41c195898a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8b45b62c3ef4cd217f8a08efc3fc8576/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8b45b62c3ef4cd217f8a08efc3fc8576/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/be037d1343a4052cacc94da690fd9be4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/be037d1343a4052cacc94da690fd9be4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/832938752bffac6bf53d46927997be3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/832938752bffac6bf53d46927997be3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/5943130d702aabd8c6012dd5cdddad6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/5943130d702aabd8c6012dd5cdddad6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/afkir/.gradle/caches/transforms-2/files-2.1/a5a6887424f7a5521af810adf1eddef0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/afkir/.gradle/caches/transforms-2/files-2.1/a5a6887424f7a5521af810adf1eddef0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/a64fa3f8cc28fce435e62aa50b6fb00a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/a64fa3f8cc28fce435e62aa50b6fb00a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/c2d047dfd3d4526194859644b5305d3f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/c2d047dfd3d4526194859644b5305d3f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/597cac5d46354f8c84329803375d5809/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/597cac5d46354f8c84329803375d5809/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b98f9bceba377f097518bc52da7db7b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b98f9bceba377f097518bc52da7db7b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/fe03525b7360e424974f4bc58ffa9f45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/fe03525b7360e424974f4bc58ffa9f45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/40fee58858b84461f2facfab74fcb017/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/40fee58858b84461f2facfab74fcb017/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/efcea2120e4369e0c4734bfd993fa923/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/efcea2120e4369e0c4734bfd993fa923/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/34b70ee5eb9680bf6055c4daacdf98bb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/34b70ee5eb9680bf6055c4daacdf98bb/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0b291c91c0fd7a4dc564f7f74428f35b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0b291c91c0fd7a4dc564f7f74428f35b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3782f338b926a2081813d25e46964ec8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3782f338b926a2081813d25e46964ec8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f8279d3cb1adcf38b9d7b6f39b8d5b5b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f8279d3cb1adcf38b9d7b6f39b8d5b5b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6d0d1634cbb116e87aa02e4ba2b5044d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6d0d1634cbb116e87aa02e4ba2b5044d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d73bde8c499dfb3960f7635c6ac05ba4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d73bde8c499dfb3960f7635c6ac05ba4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cfb2f45bbf04a09959f4496f5f71b06c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cfb2f45bbf04a09959f4496f5f71b06c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/27a00d1482d2da4b6f7861adcdfbaab4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/27a00d1482d2da4b6f7861adcdfbaab4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/5c60b3ee616018fe16abcec12554812f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/5c60b3ee616018fe16abcec12554812f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1db86fd2f68cdfffc8029b85c34b5973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1db86fd2f68cdfffc8029b85c34b5973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ace391ca07874423f6cc45d4b1b0f52e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ace391ca07874423f6cc45d4b1b0f52e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3f4364ce6a1720d7beef13fc0691c3a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3f4364ce6a1720d7beef13fc0691c3a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6f62713acc8068183e64d4fa3ce32a61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6f62713acc8068183e64d4fa3ce32a61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1025773d2f97d430427f5350b43fb276/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1025773d2f97d430427f5350b43fb276/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/9aed25001818971f84615fa00c918b62/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/9aed25001818971f84615fa00c918b62/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ae0b4b47657820f12114b6152b6ea51f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ae0b4b47657820f12114b6152b6ea51f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d85fb92d704ba0c57b07f82f7dc198a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d85fb92d704ba0c57b07f82f7dc198a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/9c29b181994686c6bb270cecadecf60e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/9c29b181994686c6bb270cecadecf60e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6fc367e78628f98818f3f08113c63ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/6fc367e78628f98818f3f08113c63ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1bc6c7f118b93e82451159463acee09c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/1bc6c7f118b93e82451159463acee09c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b2d657051eca9f2909a7ca4946236946/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b2d657051eca9f2909a7ca4946236946/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8139f79bbdcc9b8788ad63012fef4bf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8139f79bbdcc9b8788ad63012fef4bf9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/59b333ac07571fc62da9479baf421554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/59b333ac07571fc62da9479baf421554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8de0a056a52acdad03185fda4bd007ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/8de0a056a52acdad03185fda4bd007ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/44d697bfcd6d44a014a5f3a5e1106571/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/44d697bfcd6d44a014a5f3a5e1106571/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/00d9fc1c339865d199e78c74fa5665aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/00d9fc1c339865d199e78c74fa5665aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0d1a7ffc27fec176a4faa34f86a58900/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0d1a7ffc27fec176a4faa34f86a58900/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aee19ad0d9085f9b73e7b81807bce70a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/aee19ad0d9085f9b73e7b81807bce70a/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2f2a838bb4d9e7385817c878d887a292/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/afkir/.gradle/caches/transforms-2/files-2.1/2f2a838bb4d9e7385817c878d887a292/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/31f139dd575a843eac761bf5c329d20c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/31f139dd575a843eac761bf5c329d20c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3c27d5932ba600a8ea3539dd971d487f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/3c27d5932ba600a8ea3539dd971d487f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d105cead4525df36da0bffcb70872770/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d105cead4525df36da0bffcb70872770/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64f8baea50ee13b002e68edfb434cd4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64f8baea50ee13b002e68edfb434cd4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/4500ae956cbc41ef001396bb6a58dea8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/4500ae956cbc41ef001396bb6a58dea8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f730a28d2119caf26d344593c28f7524/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/f730a28d2119caf26d344593c28f7524/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/78b825b9c6c8739cbb6a01ff385caca8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/78b825b9c6c8739cbb6a01ff385caca8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/487d2cf6cc29def8cd5862348ee02395/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/487d2cf6cc29def8cd5862348ee02395/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d24175de89cf5083d83c6f60af0c38e9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/afkir/.gradle/caches/transforms-2/files-2.1/d24175de89cf5083d83c6f60af0c38e9/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b00b8c47cb015ca2d71c498d16e36a5e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/b00b8c47cb015ca2d71c498d16e36a5e/AndroidManifest.xml:5:5-7:41
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/cb31b34df0eb7a020d91f9ac87815d18/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Volumes/AHMED_AFKIR/Travaill/React Native/TakeOneShow/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/21e18ce244be53c810a7cd0cc362cba2/AndroidManifest.xml:31:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/ed31e1a7999f40869e26a40e3b083e3c/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/7596704c6728ae4510e1c7e9843f2046/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/0c988c63f20888069b55d0bf1fb9710f/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/dabafac9f71ad295943137b4d97598aa/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/16bfae7878b2bcde758ff7e47d330f55/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/38577ccd662e52543bac825528340fa3/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/afkir/.gradle/caches/transforms-2/files-2.1/64d4ebbdd4dcafed9c2b14d86e6b1a9a/AndroidManifest.xml:24:13-58
